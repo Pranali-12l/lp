@@ -1,0 +1,1 @@
+print('pranali is beautiful')
